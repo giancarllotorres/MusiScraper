@@ -25,3 +25,4 @@ With PIP, the following libraries would need to be installed:
 - datetime
 - time
 - re
+- gspread
